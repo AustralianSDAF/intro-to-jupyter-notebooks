@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AustralianSDAF">
-    <img src="imgs/asdaf_logo.png" alt="Logo" width="80" height="80">
+    <img src="imgs/asdaf_logo.png" alt="Logo" width="400">
   </a>
 
   <h3 align="center">An Introduction to Jupyter Notebooks</h3>
