@@ -1,8 +1,8 @@
 # Ignore everything
-*
+/*
 
 # But not these files...
 !.gitignore
 !An\ Introduction\ to\ Jupyter\ Notebooks.ipynb
 !README.md
-!imgs/
+!/imgs/
